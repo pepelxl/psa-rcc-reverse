@@ -11,17 +11,11 @@ RCC на данный момент существует в двух поколе
 
 | Archive Name | Archive Download link |
 | - | - |
-| PSA_ovip-int-firmware-version_5-15-45-32-R0_NAC_EUR_WAVE2.tar | https://majestic.mpsa.com/nas/eu/mjb00/NAC_EU/CONTINENTAL/ovip-int-firmware-version/PSA_ovip-int-firmware-version_5-15-45-32-R0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-04-62-52-R0_NAC_EUR_WAVE2.tar | DELETED BY PSA |
-| PSA_ovip-int-firmware-version_21-04-62-54-R0_NAC_EUR_WAVE2.tar | https://majestic.mpsa.com/nas/eu/mjb00/NAC_EU/CONTINENTAL/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-04-62-54-R0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-05-65-32_NAC-R0_NAC_EUR_WAVE2.tar | DELETED BY PSA |
-| PSA_ovip-int-firmware-version_21-05-78-22_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-05-78-22_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-06-47-34_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-06-47-34_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-07-16-32_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-07-16-32_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-07-67-32_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-07-67-32_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-22-32_NAC-r1_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-22-32_NAC-r1_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-24-12_NAC-r1_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-24-12_NAC-r1_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-25-12_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-25-12_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-84-12_NAC-r0_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-84-12_NAC-r0_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-87-32_NAC-r1_NAC_EUR_WAVE2.tar | https://majestic-web.mpsa.com/nas/eu/mjb00/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-87-32_NAC-r1_NAC_EUR_WAVE2.tar |
-| PSA_ovip-int-firmware-version_21-08-90-52_NAC-r0_NAC_EUR_WAVE2.tar | https://ds4emloty3shq.cloudfront.net/CONTINENTAL/NAC_EU/ovip-int-firmware-version/PSA_ovip-int-firmware-version_21-08-90-52_NAC-r0_NAC_EUR_WAVE2.tar |
+| PSA_rcc-firmware_0_130_15-7A133-9 | https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar |
+| PSA_rcc-firmware_1_049_16-1B055-24| https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_049_16-1B055-24_.tar |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
