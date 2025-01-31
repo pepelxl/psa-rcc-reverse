@@ -11,7 +11,7 @@ RCC на данный момент существует в двух поколе
 
 | Archive Name | Archive Download link |
 | - | - |
-| PSA_rcc-firmware_0_130_15-7A133-9 | https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar |
+| PSA_rcc-firmware_0_130_15-7A133-9 | [0.130](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar) |
 | PSA_rcc-firmware_1_049_16-1B055-24| https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_049_16-1B055-24_.tar |
 |  |  |
 |  |  |
