@@ -26,3 +26,17 @@ https://majestic-web.mpsa.com/mjf00-web/rest/LicenseDownload?mediaVersion=IIIIII
 ```
 где IIIIIIIIIIIIIIIIII - ID - версия прошивки, находящиеся в файле UpdateInfo.xml рядом с прошивкой  
  UUUUUUUUUUUUUUUUUUUU - идентификационный номер магнитолы.
+
+  ### раскодирование файлов прошивки осуществляется командой:
+```
+openssl enc -d -aes-256-cbc -in if.file -out out.file -K %1 -iv %2
+```
+где %1 - ключ; %2 - iv ключа  
+
+Скрипт под windows который раскриптует файлы прошивки в автоматическом режиме.  
+```
+unpack_rcc_windows.bat %1 %2
+```
+скрипт положить рядом с папкой rcc_update  
+использовать соответствующие ключи из папки key_waveX  
+В системе должен быть установлен openssl или скрипт должен запускаться к командной строке openssl  
