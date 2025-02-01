@@ -6,7 +6,15 @@
   
 RCC на данный момент существует в двух поколениях wave2 и wave3.  
 Прошивки для wave2 начинаются с  0 или 1  
-  
+wave2 существуют в двух редакциях A1 и A2  
+A1 процессор MCIMX6S6AVM08AC Single core  
+A2 процессор MCIMX6U6AVM08AC Dual core  
+Кроме того A2 имеет на борту wifi модуль и поддержку Carplay AndroidAuto MirrokLink  
+Версию головного устройства можно узнать по версии прошивки в меню. Последняя буква означает тип головного устройства  
+A - A1  
+B - A1 dab  
+C - A2  
+D - A2 dab  
 ### WAVE2
 
 | Archive Name | Archive Download link | ID |
@@ -25,7 +33,12 @@ RCC на данный момент существует в двух поколе
 https://majestic-web.mpsa.com/mjf00-web/rest/LicenseDownload?mediaVersion=IIIIIIIIIIIIIIIIII&uin=UUUUUUUUUUUUUUUUUUUU
 ```
 где IIIIIIIIIIIIIIIIII - ID - версия прошивки, находящиеся в файле UpdateInfo.xml рядом с прошивкой  
- UUUUUUUUUUUUUUUUUUUU - идентификационный номер магнитолы.
+ UUUUUUUUUUUUUUUUUUUU - идентификационный номер магнитолы.  
+ Сам UIN можно вычитать из магнитолы или посмотреть на этикетке  
+ ![alt text](/foto/uin.jpg)  
+BPN=$1  
+BSN=$2  
+UIN="2D0$BPN$BSN"   
 
   ### раскодирование файлов прошивки осуществляется командой:
 ```
