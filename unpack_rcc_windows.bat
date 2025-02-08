@@ -29,7 +29,12 @@ openssl enc -d -aes-256-cbc -in "%%a" -out "rcc_update_extracted\%%~na" -K %1 -i
 )
 echo   RCCUpdate.xml procesing...
 openssl enc -d -aes-256-cbc -in "rcc_update\RCCUpdate.xml" -out "rcc_update_extracted\RCCUpdate.xml" -K %1 -iv %2
-copy "rcc_update\Bosch.cms" "rcc_update_extracted\Bosch.cms"
+if exist "PSA-OVIP-G1.crt" (
+echo found CA PSA-OVIP-G1.crt
+openssl cms -verify -CAfile PSA-OVIP-G1.crt -in "rcc_update\Bosch.cms" -no_check_time -out "rcc_update_extracted\Bosch.xml"
+) else (
+openssl cms -verify -noverify -in "rcc_update\Bosch.cms" -out "rcc_update_extracted\Bosch.xml"
+)
 echo finished
 :EXIT
 EndLocal
