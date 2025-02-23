@@ -15,8 +15,7 @@ A - A1
 B - A1 dab  
 C - A2  
 D - A2 dab  
-### WAVE2
-
+### WAVE2  
 | Archive Name | Archive Download link | ID |
 | - | - | - |
 | PSA_rcc-firmware_0_130_15-7A133-9 | [0.130](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar) | 005315191480086732 |
@@ -26,6 +25,39 @@ D - A2 dab
 | PSA_rcc-firmware_1_074_16-1B116_RCC_EU_W2 | [1.074](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_074_16-1B116_RCC_EU_W2.tar) | 005315191511546036 |
 | PSA_rcc-firmware_1_075_16-1B116_RCC_EU_W2 | [1.075](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_075_16-1B116_RCC_EU_W2.tar) | 005315191543853442 |
 | PSA_rcc-firmware_1_076_16-1B116-4_RCC_EU_W2 | [1.076](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_076_16-1B116-4_RCC_EU_W2.tar) | 005315191561559942 |
+
+###  Версии
+|PSA №|Bosch №|versiom|single<br/>antenna|dab|other|
+|-|-|-|-|-|-|
+||7 503 900 020|A1||||
+||7 503 900 021|A1|x|||
+||7 503 900 022|A1||||
+||7 503 900 023|A1|x|x||
+||7 503 900 024|A2||||
+||7 503 900 025|A2|x|||
+||7 503 900 026|A2||x||
+||7 503 900 027|A2|x|x||
+||7 503 900 130|A1||||
+||7 503 900 131|A1|x|||
+||7 503 900 132|A1||x||
+||7 503 900 133|A1|x|x||
+||7 503 900 134|A2||||
+||7 503 900 135|A2|x|||
+||7 503 900 136|A2||x||
+||7 503 900 137|A2|x|x||
+||7 503 900 232|A1||||
+||7 503 900 233|A1|x|||
+||7 503 900 234|A1||x||
+||7 503 900 235|A1|x|x||
+||7 503 900 236|A2||||
+||7 503 900 237|A2|x|||
+||7 503 900 238|A2||x||
+||7 503 900 239|A2|x|x||
+||7 503 900 240|A2|x|x|DS3|
+||7 503 900 |||||
+||7 503 900 |||||
+||7 503 900 |||||
+
 
 ### Ключ лицензии
 Прямая ссылка на запрос файла сертификата с серверов PSA:  
