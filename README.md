@@ -27,7 +27,7 @@ Single antenna version - ГУ использует только один вхо�
 wave3 всегда имеет маркировку A1 a2r, версия смотрится по таблице номеров.  
 ###  Версии
 |PSA №|Bosch №|version|single<br/>antenna|dab|other|
-|-|-|-|-|-|-|
+| - | - | - | - | - | - |
 |9820249780|7503900020|A1||||
 ||7503900021|A1|x|||
 ||7503900022|A1||x||
@@ -109,14 +109,27 @@ wave3 всегда имеет маркировку A1 a2r, версия смот
 ### WAVE2  
 | Archive Name | Archive Download link | ID |
 | - | - | - |
-| PSA_rcc-firmware_0_130_15-7A133-9 | [0.130](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar) | 005315191480086732 |
-| PSA_rcc-firmware_1_049_16-1B055-24 | [1.049](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_049_16-1B055-24_.tar) | 005315191484217628 |
-| PSA_rcc-firmware_1_072_16-1B104 | [1.072](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_072_16-1B104_.tar) | 005315191489042038 |
-| PSA_rcc-firmware_1_073_16-1B108 | [1.073](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_073_16-1B108.tar) | 005315191492775864 |
-| PSA_rcc-firmware_1_074_16-1B116_RCC_EU_W2 | [1.074](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_074_16-1B116_RCC_EU_W2.tar) | 005315191511546036 |
-| PSA_rcc-firmware_1_075_16-1B116_RCC_EU_W2 | [1.075](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_075_16-1B116_RCC_EU_W2.tar) | 005315191543853442 |
-| PSA_rcc-firmware_1_076_16-1B116-4_RCC_EU_W2 | [1.076](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_076_16-1B116-4_RCC_EU_W2.tar) | 005315191561559942 |
-
+|0_130_15-7A133-9 | [0.130](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_0_130_15-7A133-9_.tar) | 005315191480086732 |
+|1_049_16-1B055-24 | [1.049](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_049_16-1B055-24_.tar) | 005315191484217628 |
+|1_072_16-1B104 | [1.072](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/BOSCH_CAR_MULTIMEDIA/rcc-firmware/PSA_rcc-firmware_1_072_16-1B104_.tar) | 005315191489042038 |
+|1_073_16-1B108 | [1.073](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_073_16-1B108.tar) | 005315191492775864 |
+|1_074_16-1B116_RCC_EU_W2 | [1.074](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_074_16-1B116_RCC_EU_W2.tar) | 005315191511546036 |
+|1_075_16-1B116_RCC_EU_W2 | [1.075](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_075_16-1B116_RCC_EU_W2.tar) | 005315191543853442 |
+|1_076_16-1B116-4_RCC_EU_W2 | [1.076](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_1_076_16-1B116-4_RCC_EU_W2.tar) | 005315191561559942 |
+### WAVE3  
+| Archive Name | Archive Download link | ID |
+| - | - | - |
+|2_04A_17.1C114.5	|[2_04A](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_2_04A_17-1C114-5_RCC_EU_W3.tar)|005315191514265728|
+|3_063_18.1D032.6	|[3_063](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_3_063_18-1D032-6_RCC_EU_W3_ECO.tar)|005315191533292972|
+|3_063_18.1D032.6.1	|[3_063](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_3_063_18-1D032-6-1_RCC_EU_W3_ECO.tar)|005315191559910812|
+|4_084_19.1E027.2	|[4_084](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_4_084_19-1E027-2_RCC_EU_W3_ECO.tar)|005315191561110251|
+|4_084_19.1E027.6	|[4_084](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_4_084_19-1E027-6_RCC_EU_W3_ECO.tar)|005315191573217213|
+|4_085_19.1E028.5	|[4_085](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_4_085_19-1E028-5_RCC_EU_W3_ECO.tar)|005315191587024729|
+|5_093_20.0H022.3	|[5_093](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_5_093_20-0H022-3_RCC_EU_W3_ECO.tar)|005315191619004063|
+|5_096_20.0H022.23	|[5_096](https://majestic-web.mpsa.com/nas/eu/mjb00/RCC_EU/rcc-firmware/PSA_rcc-firmware_5_096_20-0H022-23_RCC_EU_W3_ECO.tar)|005315191651233765|
+|6_0421_23.3I29.1	|[6_0421](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0421_23-3I29-1_RCC_EU_W3_ECO.tar)|005315191690542113|
+|6_0422_23.3I37.1	|[6_0422](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0422_23-3I37-1_RCC_EU_W3_ECO.tar)|005315191696511061|
+|6_0431_23.2I41.1	|[6_0431](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0431_23-2I41-1_RCC_EU_W3_ECO.tar)|005315191729846517|
 
 ### Ключ лицензии
 Прямая ссылка на запрос файла сертификата с серверов PSA:  
