@@ -130,6 +130,8 @@ wave3 всегда имеет маркировку A1 a2r, версия смот
 |6_0421_23.3I29.1	|[6_0421](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0421_23-3I29-1_RCC_EU_W3_ECO.tar)|005315191690542113|
 |6_0422_23.3I37.1	|[6_0422](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0422_23-3I37-1_RCC_EU_W3_ECO.tar)|005315191696511061|
 |6_0431_23.2I41.1	|[6_0431](https://ds4emloty3shq.cloudfront.net/BOSCH_CAR_MULTIMEDIA/RCC_EU/rcc-firmware/PSA_rcc-firmware_6_0431_23-2I41-1_RCC_EU_W3_ECO.tar)|005315191729846517|
+### ID
+Известно, что последние десять знаков id - это время(unix) компиляции проекта. Можно воспользоваться любым онлайн конвертером.
 
 ### Ключ лицензии
 Прямая ссылка на запрос файла сертификата с серверов PSA:  
