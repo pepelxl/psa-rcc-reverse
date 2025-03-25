@@ -156,7 +156,7 @@ openssl cms -in license_UIN.key -verify -noverify | openssl smime -decrypt -inke
 
   ### раскодирование файлов прошивки осуществляется командой:
 ```
-openssl enc -d -aes-256-cbc -in if.file -out out.file -K %1 -iv %2
+openssl enc -d -aes-256-cbc -in in.file -out out.file -K %1 -iv %2
 ```
 где %1 - ключ; %2 - iv ключа  
 
@@ -165,5 +165,5 @@ openssl enc -d -aes-256-cbc -in if.file -out out.file -K %1 -iv %2
 unpack_rcc_windows.bat %1 %2
 ```
 скрипт положить рядом с папкой rcc_update  
-использовать соответствующие ключи из папки key_waveX  
+использовать соответствующие ключи из папки key_wave  
 В системе должен быть установлен openssl или скрипт должен запускаться в командной строке openssl  
