@@ -131,3 +131,16 @@ id="carline_6" name="K0_VU_L3"
 id="carline_7" name="P2JO"  
 id="carline_8" name="P2QO"  
 id="carline_9" name="P1UO_MV"  
+
+VAUXHALL
+id="carline_1" name="K0_VP_L1" 
+id="carline_1" name="K0_VP_L2" 
+id="carline_1" name="K0_VP_L3" 
+id="carline_2" name="K0_VU_L1" 
+id="carline_2" name="K0_VU_L2" 
+id="carline_2" name="K0_VU_L3" 
+id="carline_3" name="K9_VP_L1" 
+id="carline_3" name="K9_VP_L2" 
+id="carline_4" name="K9_VU_L1" 
+id="carline_4" name="K9_VU_L2"  
+
