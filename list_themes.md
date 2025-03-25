@@ -81,7 +81,7 @@ id="carline_5" name="K9_VU_L1"
 id="carline_5" name="K9_VU_L2"  
 id="carline_6" name="R83"  
 id="carline_7" name="R82"  
-id="carline_8" name="P84" 	
+id="carline_8" name="P84"  
 id="carline_9" name="P87"  
 id="carline_10" name="A91"  
 id="carline_11" name="A94"  
@@ -132,7 +132,7 @@ id="carline_7" name="P2JO"
 id="carline_8" name="P2QO"  
 id="carline_9" name="P1UO_MV"  
 
-VAUXHALL
+VAUXHALL  
 id="carline_1" name="K0_VP_L1"  
 id="carline_1" name="K0_VP_L2"  
 id="carline_1" name="K0_VP_L3"  
